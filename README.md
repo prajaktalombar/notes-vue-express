@@ -1,2 +1,2 @@
 # notes-vue-express
-this is a nodejs express vuejs web app
+This is a nodejs express vuejs web app
